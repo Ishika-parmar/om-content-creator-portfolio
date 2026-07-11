@@ -257,7 +257,6 @@ section{
     border:4px solid #D4AF37;
     box-shadow:0 0 30px rgba(212,175,55,.30);
     transition:.4s;
-    margin-top: 20px;
 }
 
 .about-image img:hover{
